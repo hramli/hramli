@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**hramli/hramli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Interests
 
-Here are some ideas to get you started:
+- The default programming language I use is Rust;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- My daily driver is Mac;
+
+- My favourite code editor is [VSCode](https://code.visualstudio.com/).
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hramli&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=simonsan&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=simonsan&theme=github_dark)
