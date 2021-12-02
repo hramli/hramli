@@ -2,7 +2,7 @@
 
 ### My Interests
 
-- The default programming language I use is Rust;
+- My favorite languages are Java & JavaScript;
 
 - My daily driver is Mac;
 
