@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-#### Software Engineer fresh out of college, with some work experiences here and there
+#### Software Engineer fresh out of UCLA, with some work experiences here and there
 - Love creating new things
 - Java & JavaScript are my favorite languages
 
