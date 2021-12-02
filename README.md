@@ -1,16 +1,9 @@
-## Hi there 👋
+## Hey there! 👋
 
-### My Interests
-
-- My favorite languages are Java & JavaScript;
-
-- My daily driver is Mac;
-
-- My favourite code editor is [VSCode](https://code.visualstudio.com/).
-
+#### Software Engineer fresh out of college, with some work experiences here and there
+- Love creating new things
+- Java & JavaScript are my favorite languages
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hramli&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=simonsan&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=simonsan&theme=github_dark)
