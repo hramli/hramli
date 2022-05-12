@@ -1,6 +1,5 @@
 ## Hey there! 👋
 
-#### Software Engineer fresh out of UCLA, with some work experiences here and there
 - 🧠 Love creating new things
 - 💬 Java & JavaScript are my two favorite languages
 - 🧩 I want to learn blockchain development
